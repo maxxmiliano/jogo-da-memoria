@@ -20,5 +20,4 @@ const form = document.querySelector('.login-form');
    }
 
     input.addEventListener('input', validateInput);
-
     form.addEventListener('Submit', handleSubmit);
